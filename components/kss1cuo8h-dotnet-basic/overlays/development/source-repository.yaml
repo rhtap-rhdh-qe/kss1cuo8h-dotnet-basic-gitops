@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kss1cuo8h-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/kss1cuo8h-dotnet-basic
